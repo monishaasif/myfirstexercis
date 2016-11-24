@@ -1,0 +1,18 @@
+.container_12{
+	background:#BDB76B	;
+	bottom:200px;
+}
+
+nav li {
+display:inline;
+}
+header{
+	background:#556B2F;
+	
+	}
+
+
+ul a:hover
+{
+color:black;
+}
