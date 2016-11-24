@@ -1,18 +1,89 @@
-.container_12{
-	background:#BDB76B	;
-	bottom:200px;
+#boo{
+	width: 100%;
+	font-family: 'Mallanna', sans-serif;
+	
+	background-color:#D3D3D3;
+	margin-top: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
 }
+
+
+#as{
+	float: left;
+	width: 100%;
+	background-color: pink;
+	font-family: 'Ravi Prakash', cursive;
+	position: fixed;
+}
+
 
 nav li {
-display:inline;
+	display: inline;
 }
-header{
-	background:#556B2F;
-	
-	}
 
 
-ul a:hover
-{
-color:black;
+#nav{
+	float: right;
+	padding-top: 10px;
+}
+
+li a:hover{
+	color:black;
+
+}
+
+
+ul a{
+	font-size: 20px;
+	text-decoration: none;
+	color: cyan;
+}
+
+
+#sec1{
+	margin-top: 0px;
+	background-color: green;
+	font-size: 20px;
+	padding-top: 9%;
+}
+
+
+#sec2{
+	background-color: #EEE8AA;
+	font-size: 20px;
+}
+
+
+#head{
+	float: left;
+	padding-top: 10px;
+}
+
+
+#div1{
+	background-color: #FFDEAD;
+}
+
+#div2{
+	background-color: #F5FFFA;
+	font-size: 20px;
+}
+
+
+#div3{
+	background-color:#B0C4DE; 
+	font-size: 20px;
+}
+
+
+#div4{
+	background-color: #FFA07A;
+	font-size: 20px;
+}
+
+#foot{
+	background-color: pink;
+	font-size: 20px;
+	width: 100%;
 }
